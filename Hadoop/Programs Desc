@@ -1,0 +1,5 @@
+Check Dir  - Program to check if the given Dir exists in HDFS
+Syntax 	- cloudera@cloudera-vm:/tmp/windows$ hadoop jar hadoop.jar CheckDir /input
+
+FileCopyWithProgress - Program to copy 
+cloudera@cloudera-vm:/tmp/windows$ hadoop jar hadoop.jar FileCopyWithProgress FileCopywithProgress.txt  /input/FileCopyWithProgress.txt
